@@ -8,4 +8,4 @@ Refer to the original GAT,in layers.py
 ### CRF
 in crf.py
 ### Datasets
-NCBI-disease & BC2GM
+NCBI-disease & BC2GM, in preprocessed data.rar
