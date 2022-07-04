@@ -9,3 +9,5 @@ Refer to the original GAT,in layers.py
 in crf.py
 ### Datasets
 NCBI-disease & BC2GM, in preprocessed data.rar
+### Dictionary
+Use the general Bert dictionary, in model/vocab.txt
